@@ -12,7 +12,7 @@ RUN set -x \
 
 # Install Docker Compose
 RUN set -x \
- && DOCKER_COMPOSE_VERSION="1.11.2" \
+ && DOCKER_COMPOSE_VERSION="1.12.0" \
  && curl -L -o /usr/local/bin/docker-compose https://github.com/docker/compose/releases/download/$DOCKER_COMPOSE_VERSION/docker-compose-`uname -s`-`uname -m` \
  && chmod +x /usr/local/bin/docker-compose
 
