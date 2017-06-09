@@ -1,6 +1,6 @@
 # rancher-circleci
 
-[![](https://images.microbadger.com/badges/version/protocool/rancher-circleci:0.2.0.svg)](https://microbadger.com/images/protocool/rancher-circleci:0.2.0 "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/protocool/rancher-circleci:0.2.0.svg)](https://microbadger.com/images/protocool/rancher-circleci:0.2.0 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/protocool/rancher-circleci:0.3.0.svg)](https://microbadger.com/images/protocool/rancher-circleci:0.3.0 "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/protocool/rancher-circleci:0.3.0.svg)](https://microbadger.com/images/protocool/rancher-circleci:0.3.0 "Get your own image badge on microbadger.com")
 
 Docker image for CI/CD with [Rancher](http://rancher.com/rancher/) and [CircleCI](https://circleci.com/) :cow: + :whale: = :heart:
 
