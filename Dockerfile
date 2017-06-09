@@ -18,7 +18,7 @@ RUN set -x \
 
 # Install Rancher CLI
 RUN set -x \
- && RANCHER_CLI_VERSION="0.5.3" \
+ && RANCHER_CLI_VERSION="0.6.1" \
  && curl -L -o /tmp/rancher-$RANCHER_CLI_VERSION.tgz https://releases.rancher.com/cli/v$RANCHER_CLI_VERSION/rancher-linux-amd64-v$RANCHER_CLI_VERSION.tar.gz \
  && tar -xz -C /tmp -f /tmp/rancher-$RANCHER_CLI_VERSION.tgz \
  && mv /tmp/rancher-v$RANCHER_CLI_VERSION/rancher /usr/bin
