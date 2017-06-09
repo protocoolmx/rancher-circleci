@@ -25,6 +25,6 @@ $ docker run --rm protocool/rancher-circleci
 #
 # Docker version 17.03.0-ce, build 60ccb22
 # docker-compose version 1.11.2, build dfed245
-# rancher version v0.5.3
+# rancher version v0.6.1
 # rancher-compose version v0.12.5
 ```
