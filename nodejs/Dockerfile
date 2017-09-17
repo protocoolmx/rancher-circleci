@@ -1,4 +1,4 @@
-FROM protocool/rancher-circleci:0.3.0
+FROM protocool/rancher-circleci:base
 
 # Install Node v6
 RUN curl -sL https://deb.nodesource.com/setup_6.x | bash -
